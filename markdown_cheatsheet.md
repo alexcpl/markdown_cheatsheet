@@ -1,4 +1,4 @@
-[Markdown Cheat Sheet by Markdown](https://www.markdownguide.org/cheat-sheet/ "Go to Markdown Cheat Sheet")
+[Markdown Cheat Sheet by Markdownguide](https://www.markdownguide.org/cheat-sheet/ "Go to Markdownguide Cheat Sheet")
 
 <!-- Headings -->
 # Heading 1
